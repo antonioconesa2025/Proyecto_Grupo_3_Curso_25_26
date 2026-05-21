@@ -1,15 +1,5 @@
 # Modelo Entidad-Relación - Comemos Seguros
 
-## Descripción general del proyecto
-
-El proyecto es un sistema de control de alérgenos y gestión de menús, diseñado para su uso en centros educativos, sanitarios y otros entornos colectivos donde se preparan y distribuyen comidas de forma regular. La aplicación facilita la planificación, supervisión y control de los menús, asegurando que se respeten las restricciones alimentarias y se reduzcan al máximo los riesgos asociados a la presencia de alérgenos.
-
-El sistema permite la gestión centralizada de la información, incluyendo el registro de ingredientes, alérgenos asociados, menús diarios o semanales y centros o establecimientos donde se sirven dichos menús. Cada menú puede vincularse a una fecha concreta y a un conjunto de restricciones alimentarias, permitiendo identificar de forma clara qué platos son aptos o no para determinados grupos de personas.
-
-También incorpora un mecanismo de detección de conflictos para identificar automáticamente incompatibilidades entre los ingredientes de un menú y los alérgenos definidos, y alertar al personal responsable antes de que el menú sea validado o distribuido.
-
-El sistema está orientado a distintos perfiles de usuario, como personal administrativo, responsables de cocina o personal de gestión, cada uno con funciones y permisos específicos. Además, mantiene un histórico de menús y modificaciones, permitiendo consultar cambios realizados, incidencias detectadas y ajustes efectuados a lo largo del tiempo.
-
 ## Entidades principales
 
 1. **Usuario**
