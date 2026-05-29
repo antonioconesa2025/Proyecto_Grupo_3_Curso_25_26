@@ -2,7 +2,7 @@ Se incluye un diagrama en PDF de las distintas interfaces de usuarios para poder
 
 El primer menú es el Login se accede con una contraseña y correo. Según el rol que asigne se cargará un menú u otro.
 
-![foto del login](https://github.com/antonioconesa2025/Proyecto_Grupo_3_Curso_25_26/blob/8c6353de8a8f67027a24136d6de6557cfdf46c6f/ui/1_menu_login.png)
+![foto del login](/ui/1_menu_login.png)
 
 El segundo menú es el del director y permite incluir un listado de alumnos y las intolerancias alimentarias que existen.
 
