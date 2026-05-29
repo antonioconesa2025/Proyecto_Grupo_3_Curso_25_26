@@ -1,7 +1,7 @@
 Se incluye un diagrama en PDF de las distintas interfaces de usuarios para poder ver el conjunto de la aplicación.
 
 
-![foto del login](/ui/diagrama_aplicacion.png)
+![foto del login](/ui/diagrama_aplicacion.jpeg)
 
 
 El primer menú es el Login se accede con una contraseña y correo. Según el rol que asigne se cargará un menú u otro.
