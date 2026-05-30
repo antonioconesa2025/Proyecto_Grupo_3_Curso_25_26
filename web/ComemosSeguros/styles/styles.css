@@ -20,6 +20,12 @@ body {
   line-height: 1.6;
 }
 
+.contenedor_titulo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 .cabecera {
   background: linear-gradient(135deg, #e0edff 0%, #f8fbff 100%);
   padding: 1.5rem 1.25rem 3rem;
