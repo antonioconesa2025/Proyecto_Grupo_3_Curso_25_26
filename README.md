@@ -38,25 +38,29 @@ Proyecto_Grupo_3_Curso_25_26/
 ├─ README.md
 ├─ Presentación.txt
 ├─ diagramas/
-│  ├─ Diagrama Clases.png
-│  ├─ Diagrama_Modelo E-R.png
-│  ├─ UseCase_ComemosSeguros.png
+   ├─ modelo E-R.md
 │  ├─ diagrama_actividad_comemosseguros.jpg
-│  ├─ Análisis.docx
+│  ├─ descripcion
+│  ├─ UseCase_ComemosSeguros.png
 │  ├─ Sistema de clases.docx
-│  └─ modelo E-R.md
+│  ├─ Diagrama_Modelo E-R.png
+│  ├─ Diagrama Clases.png
+│  └─ Análisis.docx
 ├─ Miscellanea/
-│  ├─ icono_ COMEMOS SEGUROS.png
-│  ├─ logo_ COMEMOS SEGUROS.png
-│  ├─ Portada COMEMOS SEGUROS.png
+│  ├─ Memoria antigua.pdf
 │  ├─ Planteamiento Inicial Proyecto V.0.1.docx
 │  ├─ Planteamiento Inicial Proyecto V.0.2.docx
 │  ├─ Planteamiento Inicial Proyecto V.0.3.docx
 │  ├─ Planteamiento Inicial Proyecto V.0.4.docx
 │  ├─ Planteamiento Inicial Proyecto V.0.5.docx
 │  ├─ Planteamiento Inicial Proyecto V.0.6.docx
-│  └─ entrega_proyecto/
+│  ├─ Portada COMEMOS SEGUROS.png
+│  ├─ descripcion
+   ├─ entrega_proyecto
+   ├─ icono_ COMEMOS SEGUROS.png
+│  └─ logo_ COMEMOS SEGUROS.png
 └─ web/
+   ├─ descripcion
    └─ ComemosSeguros/
       ├─ index.html
       ├─ img/
@@ -86,6 +90,8 @@ Crear un sistema visual y accesible para gestionar:
 - Carlos López
 - Antonio Conesa
 - Daiana Milenova Tsvetanova
+
+- Leonardo Auda: Imposible de contactar para el proyecto.
 
 </div>
 
